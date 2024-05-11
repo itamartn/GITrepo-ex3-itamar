@@ -1,7 +1,7 @@
 public class Itamar{
 	public static void main(String[] args){
 		for (int i=1;i<=10; i++){
-			System.out.println("itamar"+i);
+			System.out.println("itamar Devops"+i);
 		}
 	}
 }
